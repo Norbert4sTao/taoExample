@@ -6,6 +6,7 @@
 		<sections>
 			<section id="taoExample_main" name="taoExample" url="/taoExample/TaoExample/index" />
 			<section id="taoExample_other" name="Template" url="/taoExample/TaoExample/templateExample" />
+			<section id="taoExample_template" name="Hello from .tpl" url="/taoExample/Greeter/myName"></section>
 		</sections>
 	</structure>
 </structures>
