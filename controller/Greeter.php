@@ -2,7 +2,7 @@
 
 namespace oat\taoExample\controller;
 
-class Greeter extends \tao_actions_commonModule {
+class Greeter extends \tao_actions_CommonModule {
     /**
      * initialize the services
      */
